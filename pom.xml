@@ -6,7 +6,7 @@
   
   <dependencies>
   
-  
+  <!-- Changes made -->
   <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-junit -->
 <dependency>
     <groupId>info.cukes</groupId>
